@@ -1,13 +1,12 @@
 .header {
-    color: white;
+    color: rgb(0, 0, 0);
     position: static;
-    background-color: rgb(194, 221, 230);
     text-align: left;
 }
 nav {
     color: white;
     position: sticky;
-    background-color: rgb(13, 13, 13);
+    background-color: rgb(0, 0, 0);
     display: flex;
     gap: 40px;
     justify-content: center;
