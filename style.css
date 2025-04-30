@@ -1,0 +1,15 @@
+.header {
+    color: white;
+    position: static;
+    background-color: rgb(194, 221, 230);
+    text-align: left;
+}
+nav {
+    color: white;
+    position: sticky;
+    background-color: rgb(13, 13, 13);
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding: 10px;
+}
