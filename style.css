@@ -1,7 +1,10 @@
+
+
 .header {
     color: black;
     position: static;
     text-align: left;
+    background-color: transparent;
 }
 nav {
     color: white;
