@@ -1,12 +1,12 @@
 .header {
-    color: rgb(0, 0, 0);
+    color: black;
     position: static;
     text-align: left;
 }
 nav {
     color: white;
     position: sticky;
-    background-color: rgb(0, 0, 0);
+    background-color: black;
     display: flex;
     gap: 40px;
     justify-content: center;
